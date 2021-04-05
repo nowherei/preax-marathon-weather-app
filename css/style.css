@@ -307,7 +307,7 @@ body {
   padding: 10rem 3rem 4rem;
   font-size: 1.8rem;
   line-height: 2.1rem;
-  transform: translate(0, -100%);
+  transform: translate(-100%);
   transition: 0.5s;
 }
 
